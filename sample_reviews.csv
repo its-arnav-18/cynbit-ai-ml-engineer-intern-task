@@ -1,0 +1,7 @@
+review_id,source,location,rating,review_text
+demo-001,Google,Jaipur Central,5,"Wonderful service and very friendly staff. The whole visit was smooth."
+demo-002,Google,Jaipur Central,2,"I waited almost an hour and nobody could tell me when my order would be ready."
+demo-003,Directory,Vaishali Nagar,1,"I was charged twice and my refund request is still unresolved. Please have a manager contact me."
+demo-004,Google,Vaishali Nagar,1,"The food made me sick. I am concerned about food safety."
+demo-005,Directory,Jaipur Central,3,"The room was clean, but the booking took a long time to confirm."
+demo-006,Google,Vaishali Nagar,4,"Package arrived on time and the quality was good."
